@@ -1,0 +1,6 @@
+matplotlib == 3.5.1
+pandas
+datetime
+seaborn
+plotly
+requests
